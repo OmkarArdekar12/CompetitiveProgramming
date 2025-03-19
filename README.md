@@ -1,3 +1,3 @@
 # CompetitiveProgramming
 
-Some Data Structures and Algorithms Problem
+Some Interesting Data Structures and Algorithms Problems
