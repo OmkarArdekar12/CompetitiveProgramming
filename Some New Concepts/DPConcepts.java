@@ -125,7 +125,7 @@ public class DPConcepts {
         System.out.println();
 
         System.out.println("Fibonacci Most Optimized Method1 using Golden Ratio in Fibonacci Series: ");
-        System.out.println("Time Complexity = O(1)");
+        System.out.println("Time Complexity = O(log(n))");
         System.out.println("Space Complexity = O(1)");
         startTime = System.currentTimeMillis();
         System.out.println("Output: " + fibonacciMostOptimized(n));
@@ -135,7 +135,7 @@ public class DPConcepts {
         System.out.println();
 
         System.out.println("Fibonacci Most Optimized Method2 (can also handle large size input) using Golden Ratio in Fibonacci Series: ");
-        System.out.println("Time Complexity = O(1)");
+        System.out.println("Time Complexity = O(log(n))");
         System.out.println("Space Complexity = O(1)");
         startTime = System.currentTimeMillis();
         System.out.println("Output: " + fibonacciMostOptimizedSolution(n));
