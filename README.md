@@ -1,35 +1,27 @@
 # CompetitiveProgramming
 
-Some Interesting Data Structures and Algorithms Problems
+### Some Interesting Data Structures and Algorithms Problems
 
-<h3>
-  <a href="./Some DSA Concepts">Some DSA Concepts</a>
-</h3>
+## [Some DSA Concepts](./Some%20DSA%20Concepts)
 
-<h5>
-  <a href="./Some DSA Concepts/SieveOfEratosthenes.java">1. Sieve of Eratosthenes Algorithm</a>
-</h5>
-<h5>
-  <a href="./Some DSA Concepts/DPConcepts.java">2. Dynamic Programming Concepts</a>
-</h5>
-<h5>
-  <a href="./Some DSA Concepts/RaceCar.java">3. Race Car</a>
-</h5>
-<h5>
-  <a href="./Some DSA Concepts/maxAbsSubarraySum.java">4. Maximum Absolute Sum of Any Subarray</a>
-</h5>
-<h5>
-  <a href="./Some DSA Concepts/maxOddSubarraySum.java">5. Number of Sub-arrays With Odd Sum</a>
-</h5>
-<h5>
-  <a href="./Some DSA Concepts/DominoTrominoTiling.java">6. Domino and Tromino Tiling</a>
-</h5>
-<h5>
-  <a href="./Some DSA Concepts/BoyerMooreVotingAlgorithm.java">7. Boyer-Moore Voting Algorithm</a>
-</h5>
-<h5>
-  <a href="./Some DSA Concepts/MatrixExponentiation.java">8. Matrix Exponentiation</a>
-</h5>
-<h5>
-  <a href="./Some DSA Concepts/BinetFormula.java">9. Binet’s Formula</a>
-</h5>
+### [1. Sieve of Eratosthenes Algorithm](./Some%20DSA%20Concepts/SieveOfEratosthenes.java)
+
+### [2. Dynamic Programming Concepts](./Some%20DSA%20Concepts/DPConcepts.java)
+
+### [3. Race Car](./Some%20DSA%20Concepts/RaceCar.java)
+
+### [4. Maximum Absolute Sum of Any Subarray](./Some%20DSA%20Concepts/maxAbsSubarraySum.java)
+
+### [5. Number of Sub-arrays With Odd Sum](./Some%20DSA%20Concepts/maxOddSubarraySum.java)
+
+### [6. Domino and Tromino Tiling](./Some%20DSA%20Concepts/DominoTrominoTiling.java)
+
+### [7. Boyer-Moore Voting Algorithm](./Some%20DSA%20Concepts/BoyerMooreVotingAlgorithm.java)
+
+### [8. Matrix Exponentiation](./Some%20DSA%20Concepts/MatrixExponentiation.java)
+
+### [9. Binet’s Formula](./Some%20DSA%20Concepts/BinetFormula.java)
+
+### [10. Tiling Problem](./Some%20DSA%20Concepts/TilingProblem.java)
+
+### [11. GridPath](./Some%20DSA%20Concepts/GridPath.java)
