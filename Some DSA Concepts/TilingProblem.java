@@ -3,8 +3,6 @@
 // tile the given board using the 2 x 1 tiles. A tile can either be placed horizontally 
 // i.e., as a 1 x 2 tile or vertically i.e., as 2 x 1 tile. 
 
-import java.util.*;
-
 public class TilingProblem {
     //Understand the Pattern of fibonacci series and using binet formula
     //TC = O(1), SC = O(1)
