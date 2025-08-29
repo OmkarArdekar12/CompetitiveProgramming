@@ -25,3 +25,10 @@
 ### [10. Tiling Problem](./Some%20DSA%20Concepts/TilingProblem.java)
 
 ### [11. GridPath](./Some%20DSA%20Concepts/GridPath.java)
+
+<br><hr>
+
+# Data Structures And Algorithms (DSA)
+
+- ## [Bubble Sort](./DSA/BubbleSort.java)
+- ## [Optimized or Modified Bubble Sort](./DSA/OptimizedBubbleSort.java)
