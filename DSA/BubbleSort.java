@@ -1,4 +1,4 @@
-// Bubble Sort
+// BUBBLE SORT
 
 import java.util.*;
 
