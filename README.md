@@ -33,3 +33,4 @@
 - ## [Bubble Sort](./DSA/BubbleSort.java)
 - ## [Optimized or Modified Bubble Sort](./DSA/OptimizedBubbleSort.java)
 - ## [Selection Sort](./DSA/SelectionSort.java)
+- ## [Optimized or Modified Selection Sort](./DSA/OptimizedSelectionSort.java)
