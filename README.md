@@ -36,3 +36,4 @@
 - ## [Optimized or Modified Selection Sort](./DSA/OptimizedSelectionSort.java)
 - ## [Insertion Sort](./DSA/InsertionSort.java)
 - ## [Optimized or Modified Insertion Sort](./DSA/OptimizedInsertionSort.java)
+- ## [Counting Sort](./DSA/CountingSort.java)
