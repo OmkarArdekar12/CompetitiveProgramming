@@ -37,3 +37,4 @@
 - ## [Insertion Sort](./DSA/InsertionSort.java)
 - ## [Optimized or Modified Insertion Sort](./DSA/OptimizedInsertionSort.java)
 - ## [Counting Sort](./DSA/CountingSort.java)
+- ## [Cyclic Sort](./DSA/CyclicSort.java)
