@@ -42,3 +42,4 @@
 - ## [Quick Sort](./DSA/QuickSort.java)
 - ## [Quick Sort taking Pivot as a Start or First Element](./DSA/QuickSortPivotAsAStartElement.java)
 - ## [Quick Sort taking Pivot as a End or Last Element](./DSA/QuickSortPivotAsALastElement.java)
+- ## [3-Way Merge Sort or Three Way Merge Sort](./DSA/ThreeWayMergeSort.java)
