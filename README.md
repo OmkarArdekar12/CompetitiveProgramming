@@ -40,3 +40,4 @@
 - ## [Cyclic Sort](./DSA/CyclicSort.java)
 - ## [Merge Sort](./DSA/MergeSort.java)
 - ## [Quick Sort](./DSA/QuickSort.java)
+- ## [Quick Sort taking Pivot as a End or Last Element](./DSA/QuickSortPivotAsALastElement.java)
