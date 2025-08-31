@@ -39,3 +39,4 @@
 - ## [Counting Sort](./DSA/CountingSort.java)
 - ## [Cyclic Sort](./DSA/CyclicSort.java)
 - ## [Merge Sort](./DSA/MergeSort.java)
+- ## [Quick Sort](./DSA/QuickSort.java)
